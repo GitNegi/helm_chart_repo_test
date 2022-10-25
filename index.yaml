@@ -3,12 +3,12 @@ entries:
   mydep:
   - apiVersion: v2
     appVersion: 1.1.0
-    created: "2022-10-25T09:07:29.035934035Z"
+    created: "2022-10-25T09:30:45.569604366Z"
     description: A Helm chart for Kubernetes my bla bla application
-    digest: 07024a2f63b5942a9088b2ed591731622b7246100c49639715c066e3860f5841
+    digest: db92cccb7944461f41d689ae8aa7f9dfe03c616cadb08e3d4a4955ff2a0dad45
     name: mydep
     type: application
     urls:
     - mydep-1.0.0.tgz
     version: 1.0.0
-generated: "2022-10-25T09:07:29.035477051Z"
+generated: "2022-10-25T09:30:45.569143396Z"
